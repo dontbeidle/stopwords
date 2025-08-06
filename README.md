@@ -1,0 +1,2 @@
+# stopwords
+📝 | Stopwords in Karakalpak
