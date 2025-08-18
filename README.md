@@ -28,7 +28,7 @@ machine translation
 with open('kaa_stopwords_v1.txt', encoding='utf-8') as f:
     stopwords = set(f.read().splitlines())
 
-text = "Men Karakalpak tilinde NLP jasayman"
+text = "Men qaraqalpaq tilinde NLP jasayman"
 filtered = [word for word in text.split() if word.lower() not in stopwords]
 print(filtered)
 ```
