@@ -21,7 +21,7 @@ kim
 qayda
 qaydan
 ǵana
-túgel
+túwel
 da
 de
 búl
@@ -34,8 +34,8 @@ erteń
 soń
 joq
 yaq
-jaqsi
-yaqshi
+jaqsı
+yaqshı
 átteń
 qaray
 tek
@@ -45,8 +45,8 @@ hesh
 heshaw
 hesh-aw
 heshnárse
-ushin
 sayın
+ushın
 tárizli
 jóninde
 arqalı
