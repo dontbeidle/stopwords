@@ -1,4 +1,4 @@
-# KAA Stopwords — Version 1
+# Karakalpak stopwords — Version 1
 The first curated stopword list for the Karakalpak language (Latin script)
 
 ---
